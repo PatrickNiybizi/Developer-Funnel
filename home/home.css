@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+}
+header{
+    height:80px;
+    background-color: #3b2632;
+}
+#search{
+    height:450px;
+    background-image: url("images/foodimage.jpg");
+    background-size:100% 450px;
+}
+#brand{
+    float:left;
+    color:white;
+    font-size: 30px;
+    margin:1%
+
+}
+#social{
+    float:right;
+    margin: 1%;
+
+}
+.socialLogo{
+    height: 50px;
+}
+#QuickSearch{
+    height: 600px;
+    background-color: #d9b6ca
+}
+footer{
+    height:120px;
+    background-color: #3b2632;
+}
